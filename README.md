@@ -17,7 +17,5 @@ ollama pull starcoder-3b
 ## Installing Continue and configuring
 You can install Continue from [here in VS Code store](https://marketplace.visualstudio.com/items?itemName=Continue.continue).
 
-After installation, you should see it in sidebar
-
-
-
+After installation, you should see it in sidebar as shown below:
+![Continue in VSCode](https://github.com/manjushsh/local-code-completion-configs/blob/main/assets/1.png)
