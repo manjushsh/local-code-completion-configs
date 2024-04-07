@@ -1,5 +1,3 @@
-# Setting up Ollama and Continue to get local coding assistant
-
 ## Prerequisites
 - [Ollama](https://ollama.com/) installed on your system.
 You can visit [Ollama](https://ollama.com/) and download application as per your system.
