@@ -36,3 +36,6 @@ After installation, you should see it in sidebar as shown below:
 - You should be able to select model you added in config now. So select CodeLlama. ![Pick modal added in dropdown](https://github.com/manjushsh/local-code-completion-configs/blob/main/assets/4.png)
 And you can also chat as normal ![Chat](https://github.com/manjushsh/local-code-completion-configs/blob/main/assets/5.png)
 or file level code ![Code](https://github.com/manjushsh/local-code-completion-configs/blob/main/assets/6.png)
+
+## References:
+[Continue on GitHub](https://github.com/continuedev/continue)
