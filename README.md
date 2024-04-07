@@ -1,4 +1,3 @@
-
 # Setting up Ollama and Continue to get local coding assistant
 
 ## Prerequisites
@@ -38,4 +37,5 @@ And you can also chat as normal ![Chat](https://github.com/manjushsh/local-code-
 or file level code ![Code](https://github.com/manjushsh/local-code-completion-configs/blob/main/assets/6.png)
 
 ## References:
-[Continue on GitHub](https://github.com/continuedev/continue)
+[Continue repo on GitHub](https://github.com/continuedev/continue)
+Some parts of this document is edited with ChatGPT
