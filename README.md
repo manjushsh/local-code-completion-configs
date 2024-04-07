@@ -3,6 +3,7 @@
 You can visit [Ollama](https://ollama.com/) and download application as per your system.
 - AI model in this case we are using Codellama. 
 You can install it with 
+
 ``` bash 
 ollama pull codellama 
 ```
