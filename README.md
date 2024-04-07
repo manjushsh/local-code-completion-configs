@@ -38,4 +38,3 @@ or file level code ![Code](https://raw.githubusercontent.com/manjushsh/local-cod
 
 ## References:
 [Continue repo on GitHub](https://raw.githubusercontent.com/continuedev/continue)
-Some parts of this document is edited with ChatGPT
