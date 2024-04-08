@@ -7,9 +7,9 @@ You can install it with
 ``` bash 
 ollama pull codellama 
 ```
-You can optionally install starcoder-3b for code autocomplete by running 
+You can optionally install `Starcoder 2 3B` for code autocomplete by running 
 ```bash 
-ollama pull starcoder-3b
+ollama pull starcoder2:3b
 ```
 
 ## Installing Continue and configuring
