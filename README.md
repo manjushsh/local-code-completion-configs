@@ -1,3 +1,6 @@
+## 🔗 Links
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjushsh) [![GitHub Pages](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://manjushsh.github.io/local-code-completion-configs/)
+
 ## Prerequisites
 - [Ollama](https://ollama.com/) installed on your system.
 You can visit [Ollama](https://ollama.com/) and download application as per your system.
