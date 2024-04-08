@@ -15,6 +15,8 @@ You can optionally install `Starcoder 2 3B` for code autocomplete by running
 ollama pull starcoder2:3b
 ```
 
+#### NOTE: It’s crucial to choose models that are compatible with your system to ensure smooth operation and avoid any hiccups.
+
 ## Installing Continue and configuring
 You can install Continue from [here in VS Code store](https://marketplace.visualstudio.com/items?itemName=Continue.continue).
 
