@@ -51,4 +51,7 @@ or file level code
 ![Code](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/6.png)
 
 ## References:
-[Continue repo on GitHub](https://raw.githubusercontent.com/continuedev/continue)
+- [Continue repo on GitHub](https://raw.githubusercontent.com/continuedev/continue)
+- [Continue Docs](https://continue.dev/docs/quickstart)
+- [local-code-completion-configs on GitHub](https://github.com/manjushsh/local-code-completion-configs)
+- [Ollama models](https://ollama.com/library)
