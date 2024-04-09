@@ -97,5 +97,5 @@
     "provider": "ollama",
     "model": "starcoder2:3b"
   },
-  "allowAnonymousTelemetry": true
+  "allowAnonymousTelemetry": false
 }
