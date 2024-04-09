@@ -42,7 +42,7 @@ You can install Continue from [here in VS Code store](https://marketplace.visual
 
 ![Update config](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/3.png)
 
-#### You should be able to select model you added in config now. So select CodeLlama. 
+#### Select CodeLlama, which would be visible in dropdown once you add it in config
 
 ![Pick modal added in dropdown](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/4.png)
 
