@@ -4,13 +4,13 @@
 ## Prerequisites
 - [Ollama](https://ollama.com/) installed on your system.
 You can visit [Ollama](https://ollama.com/) and download application as per your system.
-- AI model in this case we are using Codellama. 
+- AI model that we will be using here is Codellama. Code Llama is a model for generating and discussing code, built on top of Llama 2. It’s designed to make workflows faster and efficient for developers and make it easier for people to learn how to code. It can generate both code and natural language about code. Code Llama supports many of the most popular programming languages used today, including Python, C++, Java, PHP, Typescript (Javascript), C#, Bash and more. If not installed, you can install wiith following command: 
 You can install it with 
 
 ``` bash 
 ollama pull codellama 
 ```
-You can optionally install `Starcoder 2 3B` for code autocomplete by running 
+You can also install `Starcoder 2 3B` for code autocomplete by running:
 ```bash 
 ollama pull starcoder2:3b
 ```
@@ -20,7 +20,7 @@ ollama pull starcoder2:3b
 ## Installing Continue and configuring
 You can install Continue from [here in VS Code store](https://marketplace.visualstudio.com/items?itemName=Continue.continue).
 
-After installation, you should see it in sidebar as shown below:
+#### After installation, you should see it in sidebar as shown below:
 
 ![Continue in VSCode](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/1.png)
 
@@ -47,11 +47,11 @@ After installation, you should see it in sidebar as shown below:
 
 ![Pick modal added in dropdown](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/4.png)
 
-And you can also chat as normal
+#### And you can also chat as normal as shown below
 
 ![Chat](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/5.png)
 
-or file level code
+#### And you can also select a codeblock file and ask AI: 
 
 ![Code](https://raw.githubusercontent.com/manjushsh/local-code-completion-configs/main/public/assets/6.png)
 
