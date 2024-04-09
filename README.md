@@ -5,7 +5,6 @@
 - [Ollama](https://ollama.com/) installed on your system.
 You can visit [Ollama](https://ollama.com/) and download application as per your system.
 - AI model that we will be using here is Codellama. Code Llama is a model for generating and discussing code, built on top of Llama 2. It’s designed to make workflows faster and efficient for developers and make it easier for people to learn how to code. It can generate both code and natural language about code. Code Llama supports many of the most popular programming languages used today, including Python, C++, Java, PHP, Typescript (Javascript), C#, Bash and more. If not installed, you can install wiith following command: 
-You can install it with 
 
 ``` bash 
 ollama pull codellama 
