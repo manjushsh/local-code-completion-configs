@@ -6,7 +6,6 @@
 title: ''
 description: "Learn to configure Codellama and VSCode so that you can get autocompletion without calling any API!"
 
-permalink: date # how your URLs are built, see https://jekyllrb.com/docs/permalinks/#builtinpermalinkstyles
 theme: minima
 plugins:
   - jekyll-feed
