@@ -93,6 +93,7 @@
     }
   ],
   "tabAutocompleteModel": {
+    "apiBase": "http://localhost:11434/",
     "title": "Starcoder2 3b",
     "provider": "ollama",
     "model": "starcoder2:3b"
